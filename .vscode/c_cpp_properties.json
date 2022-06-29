@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Code Projects/cpp-libraries/boost-1.78.0-windows-2019-mingw-static/include/boost-1_78/**",
+                "D:/Code Projects/cpp-libraries/LspCpp-c6e280bccc1df85527089abcd8a37098b0d6c1eb9-x86_64-posix-seh-rev0-8.1.0/liblspcpp/include/**",
+                "D:/Code Projects/cpp-libraries/LspCpp-c6e280bccc1df85527089abcd8a37098b0d6c1eb9-x86_64-posix-seh-rev0-8.1.0/network-uri/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "D:\\Softwares\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
